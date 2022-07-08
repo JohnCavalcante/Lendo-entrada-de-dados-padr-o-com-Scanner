@@ -1,1 +1,1 @@
-# Lendo-entrada-de-dados-padr-o-com-Scanner
+# Lendo-entrada-canner
