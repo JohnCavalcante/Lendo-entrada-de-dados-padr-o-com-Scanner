@@ -1,0 +1,21 @@
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
+public class nova {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		List<String> textos = new ArrayList<>();
+		
+		textos.add(sc.nextLine());
+		textos.add(sc.nextLine());
+
+		System.out.println(textos.size());
+		System.out.println(textos.get(1));
+	
+
+	}
+
+}
